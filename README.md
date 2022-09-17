@@ -6,7 +6,7 @@ My software is a very simple demonstration of the classic Hello World program in
 
 I am creating this software to demonstrate basic knowledge in Python, as well as show my ability to learn how to use Github.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Y5N_6oVzGZ4)
 
 # Development Environment
 
@@ -16,4 +16,4 @@ I am creating this software to demonstrate basic knowledge in Python, as well as
 
 # Useful Websites
 
-* [Github](https://github.com/AidanFoushee/Applied-Programming/tree/master/week01)
+* [Github](https://github.com/)
