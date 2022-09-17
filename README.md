@@ -10,7 +10,7 @@ I am creating this software to demonstrate basic knowledge in Python, as well as
 
 # Development Environment
 
-* Pyton
+* Python
 * Visual Studio Code
 * Git / Github
 
